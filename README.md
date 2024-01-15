@@ -11,6 +11,11 @@ Table of Contents
 
 Introduction
 
+![istockphoto-1488909294-612x612](https://github.com/Yuvika-14/Jwoc-Brics-Sentiment-Analysis/assets/147125433/0eb58a8c-74b9-40f5-bb74-eb73c7a271f6)
+![stock-photo-brazil-russia-india-china-and-south-africa-flag-print-screen-on-wooden-figure-for-brics-economic-2309540539](https://github.com/Yuvika-14/Jwoc-Brics-Sentiment-Analysis/assets/147125433/70b5068e-08fa-4972-8113-808091027e38)
+
+
+
 Features
 
 Getting Started
