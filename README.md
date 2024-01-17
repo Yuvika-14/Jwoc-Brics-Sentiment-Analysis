@@ -24,11 +24,11 @@ Getting Started
     
     Installation
     
-Usage
+
 
 Dataset
 
-Model Architecture
+
 
 Training
 
@@ -48,12 +48,27 @@ Features:
 Sentiment analysis on text data related to the New BRICS nations.
 NLP techniques for text preprocessing.
 Machine learning models for sentiment classification.
+Sentiment Classification: The core functionality of this project is the sentiment classification system. It classifies input text into positive, negative, or neutral sentiments.
+
+Prerequisites:
+install scikiit learn library beforehand.
+install libraries such as pandas,numpy and matplolib for visualizing plots.
+
+
+
+
+Installation Steps
+Clone the repository: git clone https://github.com/yourusername/sentiment-analysis-project.git
+Navigate to the project directory: cd sentiment-analysis-project
+Install dependencies: pip install -r requirements.txt
+
 
 Dataset:
 
 The dataset used for training and evaluation is available in the 'data' directory. Please refer to the dataset documentation  https://www.kaggle.com/datasets/syedali110/6-new-brics-members-sentiment-analysis for more details.
+It has four coulmns namely text display,unnamed,labels and likes.
 
-License
+License:
 
 This project is licensed under the MIT License.
 
