@@ -51,8 +51,14 @@ Machine learning models for sentiment classification.
 Sentiment Classification: The core functionality of this project is the sentiment classification system. It classifies input text into positive, negative, or neutral sentiments.
 
 Prerequisites:
-install scikiit learn library beforehand.
-install libraries such as pandas,numpy and matplolib for visualizing plots.
+install the necesary libraies such as:
+1.Numpy
+2.Pandas
+3.Sklearn
+4.XGBoost
+5.Sci-py
+6.Matplotlib
+
 
 
 
