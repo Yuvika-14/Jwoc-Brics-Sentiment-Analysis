@@ -72,5 +72,7 @@ License:
 
 This project is licensed under the MIT License.
 
+![brics](https://github.com/Yuvika-14/Jwoc-Brics-Sentiment-Analysis/assets/147125433/2a8948c2-5063-4c57-ba8d-a58d62e3e4d4)
 
 
+![brics](https://github.com/Yuvika-14/Jwoc-Brics-Sentiment-Analysis/assets/147125433/2a8948c2-5063-4c57-ba8d-a58d62e3e4d4)
