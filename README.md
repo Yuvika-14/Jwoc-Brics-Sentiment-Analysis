@@ -66,7 +66,7 @@ Install dependencies: pip install -r requirements.txt
 Dataset:
 
 The dataset used for training and evaluation is available in the 'data' directory. Please refer to the dataset documentation  https://www.kaggle.com/datasets/syedali110/6-new-brics-members-sentiment-analysis for more details.
-It has four coulmns namely text display,unnamed,labels and likes.
+It has four coulmns namely text display,unnamed,labels and likes.It has 571 rows and 4 columns.
 
 License:
 
